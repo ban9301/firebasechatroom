@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "365763212721",
+    "firebase_url": "https://chatroom-3a2ed-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "chatroom-3a2ed",
+    "storage_bucket": "chatroom-3a2ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365763212721:android:f19c7fa17bf7775bcdf990",
+        "android_client_info": {
+          "package_name": "com.example.chatroomtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365763212721-98l5n9vd22mdaqs3i28a7qcqi43dho78.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatroomtest",
+            "certificate_hash": "8aa79d90d46b2aa13e5dc4d509b42df8fc5c16d8"
+          }
+        },
+        {
+          "client_id": "365763212721-jdircus5n994i10fv3q1l5uflleorodk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDicm_-_TChufcRorqct5fQidEav9Gj52U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365763212721-jdircus5n994i10fv3q1l5uflleorodk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365763212721:android:e4207a73aa1b031bcdf990",
+        "android_client_info": {
+          "package_name": "com.example.firebasechatroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365763212721-jdircus5n994i10fv3q1l5uflleorodk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDicm_-_TChufcRorqct5fQidEav9Gj52U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365763212721-jdircus5n994i10fv3q1l5uflleorodk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
